@@ -1,0 +1,8 @@
+{
+  "name": "Papelera LC Pro",
+  "description": "Sistema de gestión y punto de venta profesional para Papelera LC con sincronización en la nube.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
